@@ -1,1 +1,22 @@
-This dataset contains scraped listings from dark web marketplaces, including product categories, prices, and vendor information. Provided strictly for academic research, data science practice, and cybersecurity studies. No illicit material is included
+This dataset contains scraped listings from dark web marketplaces, including product categories, prices, and vendor information. Provided strictly for academic research, data science practice, and cybersecurity studies. No illicit material is included.
+
+Dark Web Marketplace Dataset
+This dataset contains 109,695 records scraped from dark web marketplaces (2020). Each entry includes vendor name, product category, item title and description, price (in Bitcoin), origin/destination (if listed), rating, and remarks.
+
+Columns:
+Year — year of listing
+Vendor — anonymised vendor handle
+Category — product/service category
+Item — listing title
+Item Description — detailed text of listing
+Price — price in Bitcoin
+Origin — claimed source country/region
+Destination — intended shipping destination
+Rating — vendor rating (e.g., 4.96/5)
+Remarks — extra notes from scraper
+
+Notes:
+Data may include illegal product categories (e.g., drugs, hacking services).
+All content is for academic research, cybersecurity studies, and data analysis practice only.
+No personal information is included.
+Use responsibly and in compliance with legal and institutional ethics policies.
